@@ -45,10 +45,13 @@
 
 <script>
   window.addEventListener("load", function () {
-    document.getElementById("preloader").style.display = "none";
-    document.getElementById("conteudo").style.display = "block";
+    // Espera 2 segundos antes de esconder o preloader
+    setTimeout(function () {
+      document.getElementById("preloader").style.display = "none";
+      document.getElementById("conteudo").style.display = "block";
+    }, 2000); // 2000 milissegundos = 2 segundos
   });
-
 </script>
+
 </body>
 </html>
