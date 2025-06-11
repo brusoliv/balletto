@@ -41,7 +41,7 @@ body {
 
 #preloader img{
   width: 300px;
-  animation: girar 2s linear infinite;
+  animation: girar 1s linear infinite;
 }
 .bailarinagif.gif{
   width: 200px;
