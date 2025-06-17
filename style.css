@@ -55,17 +55,16 @@ div #preloader{
 
 header {
   background-image: url(Bailarinas-de-Edgar-Degas1.jpg);
-  background-color: #ad76a6;
-  background-repeat: cover;
-  background-position: center center;
-  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   margin: 0;
-  padding: 6%;
+  padding-block: 6%;
   text-align: center;
   color: #ffffff;
   font-family: 'Dancing Script', cursive;
   font-size: x-large;
-  border-radius: 20px;
+  border-radius: 10px;
 }
 
 a:link {
@@ -74,19 +73,19 @@ a:link {
 
 a:hover {
   color: rgb(214, 174, 104);
-  font-size: x-large;
+  font-size: large;
 }
 
 .titulo{
   font-size: 100px;
-  margin-top: 1px;
-  margin-bottom: 1px;
-  margin-left: 1px;
-  margin-right: 1px;
-  letter-spacing: 2px;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  margin-left: 0%;
+  margin-right: 0%;
+  letter-spacing: 0cap;
   font-family: 'Dancing Script', cursive; 
   background-blend-mode: luminosity;
-  border-radius: 4%;
+  border-radius: 5%;
 }
 
 ul  {
