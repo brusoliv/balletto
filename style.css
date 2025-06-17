@@ -98,12 +98,12 @@ list-style-type: none;
 
 .borda-texto {
   color: white;
-  -webkit-text-stroke: 1px black;
+  -webkit-text-stroke: px rgb(223, 158, 8);
   text-shadow:
-    -1px -1px 0 black,
-     1px -1px 0 black,
-    -1px  1px 0 black,
-     1px  1px 0 black;
+    -1px -1px 0 rgb(248, 197, 103),
+     1px -1px 0 rgb(93, 69, 26),
+    -1px  1px 0 rgb(238, 208, 153),
+     1px  1px 0 rgb(71, 67, 60);
 }
 
 nav{
