@@ -68,13 +68,17 @@ header {
   border-radius: 10px;
 }
 
-a:link {
-  color: rgb(0, 0, 0);
-}
 
 a:hover {
   color: rgb(214, 174, 104);
 }
+
+a{
+  color: rgb(0, 0, 0);
+text-decoration-style: solid ;
+font-style: italic;
+}
+
 
 .titulo{
   font-size: 100px;
@@ -110,12 +114,6 @@ font-style: italic;
 
 nav{
   color:#000000
-}
-
-a{
-  color: rgb(0, 0, 0);
-text-decoration-style: solid ;
-font-style: italic;
 }
 
 section {
@@ -177,6 +175,11 @@ center p{
 }
 
 center p a {
+  color:#b8b2b2;
+  font-size: small;
+}
+
+center p a i {
   color:#b8b2b2;
   font-size: small;
 }
