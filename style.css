@@ -78,6 +78,12 @@ summary:hover {
   color: rgb(214, 174, 104);
 }
 
+summary{
+  font-size: large;
+  font-style: italic; 
+  letter-spacing:  2px;
+  text-decoration-style: solid;
+}
 
 a{
   color: rgb(0, 0, 0);
