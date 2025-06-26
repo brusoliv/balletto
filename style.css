@@ -73,6 +73,12 @@ a:hover {
   color: rgb(214, 174, 104);
 }
 
+
+summary:hover {
+  color: rgb(214, 174, 104);
+}
+
+
 a{
   color: rgb(0, 0, 0);
 text-decoration-style: solid ;
