@@ -66,6 +66,7 @@ header {
   font-family: 'Dancing Script', cursive;
   font-size: xx-large;
   border-radius: 10px;
+  cursor: pointer;
 }
 
 
@@ -83,6 +84,7 @@ summary{
   font-style: italic; 
   letter-spacing:  2px;
   text-decoration-style: solid;
+  cursor: pointer;
 }
 
 a{
